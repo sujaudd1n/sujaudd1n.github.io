@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="155px" height="155px" version="1.1" viewBox="0 0 155 155" xmlns="http://www.w3.org/2000/svg">
+<svg width="155" height="155" version="1.1" viewBox="0 0 41.01 41.01" xmlns="http://www.w3.org/2000/svg">
+ <path d="m41.01 20.505a20.505 20.505 0 0 1-20.505 20.505 20.505 20.505 0 0 1-20.505-20.505 20.505 20.505 0 0 1 20.505-20.505 20.505 20.505 0 0 1 20.505 20.505" fill="#fe5dff" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.991" style="paint-order:fill markers stroke"/>
+ <path d="m38.292 20.505c0 4.9116-1.9909 9.3581-5.2098 12.577-3.2189 3.2187-7.6657 5.2095-12.577 5.2095s-9.3586-1.9908-12.577-5.2095c-3.2189-3.2187-5.2098-7.6653-5.2098-12.577 0-4.9116 1.9909-9.3581 5.2098-12.577 3.2189-3.2187 7.6657-5.2095 12.577-5.2095s9.3586 1.9908 12.577 5.2095c3.2188 3.2187 5.2098 7.6653 5.2098 12.577" fill="#eee" stroke="#222" stroke-linecap="round" stroke-linejoin="round" stroke-width="5.4363" style="paint-order:fill markers stroke"/>
  <g>
-  <rect width="155" height="155" rx="77" ry="77" fill="#fff" stroke-width="12.1" style="paint-order:stroke fill markers"/>
-  <text transform="matrix(1.8758 0 0 1.9046 -63.656 -129.61)" fill="#222222" font-family="sans-serif" font-size="40px" style="line-height:1.25;shape-inside:url(#rect1545);white-space:pre" xml:space="preserve"><tspan x="50" y="134.9375"><tspan fill="#222222" font-family="sans-serif" font-size="96px" style="font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal">s</tspan></tspan></text>
+  <g transform="matrix(3.6275 0 0 3.6275 -31.073 -19.894)" fill="#fff" style="paint-order:stroke fill markers;shape-inside:url(#rect894);white-space:pre" aria-label="s">
+   <path d="m16.121 8.4086v0.89917q-0.40308-0.2067-0.83716-0.31006-0.43408-0.10335-0.89917-0.10335-0.70796 0-1.0645 0.21704-0.3514 0.21704-0.3514 0.65112 0 0.33073 0.25321 0.52193 0.25321 0.18604 1.018 0.35657l0.32556 0.07235q1.0129 0.21704 1.4366 0.61495 0.42891 0.39274 0.42891 1.1007 0 0.80615-0.64079 1.2764-0.63562 0.47025-1.7518 0.47025-0.46509 0-0.97151-0.09302-0.50126-0.08785-1.0594-0.26872v-0.98185q0.5271 0.27388 1.0387 0.41341 0.5116 0.13436 1.0129 0.13436 0.67179 0 1.0335-0.22738 0.36173-0.23254 0.36173-0.65112 0-0.38757-0.26355-0.59428-0.25838-0.2067-1.142-0.39791l-0.33073-0.077516q-0.88366-0.18603-1.2764-0.56844-0.39274-0.38757-0.39274-1.0594 0-0.81648 0.57878-1.2609 0.57877-0.44442 1.6433-0.44442 0.5271 0 0.99218 0.077514 0.46509 0.077514 0.85783 0.23254z" fill="#222" style="paint-order:stroke fill markers"/>
+  </g>
  </g>
 </svg>

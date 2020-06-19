@@ -74,7 +74,6 @@ button{
     height: 300px;
     border-radius:50%;
     background: url('/src/img/sujauddin.jpg');
-    background: #444;
     background-size: cover;
 }
 .aside__nav{

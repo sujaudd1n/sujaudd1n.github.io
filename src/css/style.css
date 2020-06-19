@@ -73,7 +73,7 @@ button{
     width:300px;
     height: 300px;
     border-radius:50%;
-    background: url('/src/img/su .jpg');
+    background: url('/src/img/sujauddin.jpg');
     background: #444;
     background-size: cover;
 }
@@ -191,7 +191,10 @@ h1{
     }
 }
 @media all and (min-width: 1200px){
+    .article{
+        width: calc(100% - 400px);
+    }
     .skills__box{
-        width: calc(1200px - 390px);
+        width: calc(1200px - 440px);
     }
 }

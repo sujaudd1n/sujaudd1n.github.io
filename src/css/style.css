@@ -23,7 +23,7 @@ body{
     background-color: var(--pri-cl);
     color: var(--on-pri-cl);
     font-size: 0.9rem;
-    background: var(--pri-cl) url('/src/img/bg.png') bottom right / 100% 100% no-repeat fixed;
+    background: var(--pri-cl) url('/src/img/bg.png') bottom right / 100% 100vh no-repeat fixed;
 }
 h1,h2,h3,h4,h5,h6{
     font-family: 'Nunito', sans-serif;

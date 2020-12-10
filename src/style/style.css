@@ -1,0 +1,49 @@
+* { 
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+*::before,*::after{
+    box-sizing: border-box;
+}
+/* NORMALIZING AND BASIC STYLES*/
+h1,h2,h3,h4,h5,h6{
+    font-weight: 700;
+}
+p{
+    line-height: 1.35;
+}
+a{
+    text-decoration: none;
+}
+ol,ul,dl{
+    list-style-position: inside;
+}
+button{
+    font-family: inherit;
+    font-size: inherit;
+    box-sizing: border-box;
+}
+img{
+    display: block;
+}
+.header__stdiv{
+    position: absolute;
+    top: 10%;
+    bottom: 10%;
+    right: 10%;
+    left: 10%;
+    background-color: var(--pri-cl-600-lo);
+    z-index: 1;
+    display: flex;
+    flex-flow: column;
+    display: none;
+
+}
+.stdiv__theme{
+    padding: 10px;
+}
+.heder__thediv{
+    display: none;
+
+}

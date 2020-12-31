@@ -16,6 +16,24 @@
     --on-pri-cl: #444444;
     --on-pri-cl-500: #333333;    
 }
+#dark{
+    --pri-cl: #222222;
+    --pri-cl-500: #0f0f0f;
+    --pri-cl-600: #0f0f0f;
+    --pri-cl-600-lo: #424242ee;
+
+    --on-pri-cl: #bbbbbb;
+    --on-pri-cl-500: #d8d7d7;
+}
+#beauty{
+    --pri-cl: #2a7e54;
+    --pri-cl-500: #236946;
+    --pri-cl-600: #16442d;
+    --pri-cl-600-lo: #16442dee;
+
+    --on-pri-cl: #bbbbbb;
+    --on-pri-cl-500: #d8d7d7;
+}
 body{
     font-family: 'spgr';
     background-color: var(--pri-cl);
@@ -129,27 +147,11 @@ h1{
     font-size: 0.6rem;
 }
 @media all and (min-width: 768px){
-    .main{
-        flex-flow: row;
-        max-width: 1200px;
+    main{
+        max-width: 700px;
         margin: 0 auto;
-        justify-content: space-between;
-    }
-    .aside{
-        width: 300px;
-    }
-    .article{
-        width: calc(100% - 350px);
-    }
-    .skills__box{
-        width: calc(100vw - 390px);
     }
 }
 @media all and (min-width: 1200px){
-    .article{
-        width: calc(100% - 400px);
-    }
-    .skills__box{
-        width: calc(1200px - 440px);
-    }
+
 }

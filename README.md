@@ -1,2 +1,1 @@
-[Link](https://sujaudd1n.github.io)  
-
+<https://sujaudd1n.github.io>

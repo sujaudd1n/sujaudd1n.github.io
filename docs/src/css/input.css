@@ -2,6 +2,17 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer  components
+{
+    .svg-style
+    {
+        @apply fill-current text-gray-300 w-6 h-6 mr-1;
+    }
+    .nav-link-style
+    {
+        @apply flex flex-row mb-1 hover:text-green-300;
+    }
+}
 
 
 @media (min-width: 768px) 
